@@ -30,9 +30,9 @@ A modern restaurant website with customer-facing pages and interactive visual el
 
 ## Tech Stack
 
-**Languages:** Python, Java, JavaScript, TypeScript, C++, C#, HTML/CSS
-**Frameworks & Tools:** React, Next.js, Node.js, Express, Angular, Three.js, Prisma, Playwright
-**Databases & Cloud:** PostgreSQL, SQL, AWS, Google Cloud Platform, Vercel
+**Languages:** Python, Java, JavaScript, TypeScript, C++, C#, HTML/CSS <br>
+**Frameworks & Tools:** React, Next.js, Node.js, Express, Angular, Three.js, Prisma, Playwright <br>
+**Databases & Cloud:** PostgreSQL, SQL, AWS, Google Cloud Platform, Vercel <br>
 **Other:** Git, APIs, automation workflows, testing, technical documentation
 
 ## Connect With Me

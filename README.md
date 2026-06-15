@@ -22,12 +22,12 @@ A full-stack web application designed to improve the lost and found process at U
 
 **Tech:** Next.js, React, TypeScript, PostgreSQL, Prisma, NextAuth, Vercel, Playwright
 
-### Research Table Extraction Pipeline
+### Research Table Extraction Pipeline (in-development)
 A Python-based pipeline for extracting tables from scanned research PDFs and converting them into structured datasets.
 
 **Tech:** Python, PyMuPDF, Camelot, CSV/JSON, logging, evaluation scripts
 
-### Saigon's Restaurant Website
+### Saigon's Restaurant Website (in-development)
 A modern restaurant website with customer-facing pages and interactive visual elements.
 
 **Tech:** React, TypeScript, Tailwind CSS, Three.js

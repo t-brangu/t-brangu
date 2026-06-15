@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Brandon Nguyen 🌻
 
-<!--
-**t-brangu/t-brangu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at the University of Hawaiʻi at Mānoa, also pursuing an English minor, with interests in software engineering, AI-assisted tools, full-stack development, and data-focused applications.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 B.S. Computer Science student at the University of Hawaiʻi at Mānoa
+- 🔬 Research experience building Python pipelines for extracting and evaluating structured data from scanned PDFs
+- 🌐 Experience developing responsive web applications using React, Next.js, TypeScript, and PostgreSQL
+- 🎮 Also interested in game development, esports, and interactive web experiences
+
+## Currently Working On
+
+- Building user-facing research tools for document/table extraction workflows
+- Developing full-stack web applications with Three.js
+- Improving my software engineering fundamentals through projects, testing, and code review
+
+## Featured Projects
+
+### Manoa Lost & Found
+A full-stack web application designed to improve the lost and found process at UH Mānoa.
+
+**Tech:** Next.js, React, TypeScript, PostgreSQL, Prisma, NextAuth, Vercel, Playwright
+
+### Research Table Extraction Pipeline
+A Python-based pipeline for extracting tables from scanned research PDFs and converting them into structured datasets.
+
+**Tech:** Python, PyMuPDF, Camelot, CSV/JSON, logging, evaluation scripts
+
+### Saigon's Restaurant Website
+A modern restaurant website with customer-facing pages and interactive visual elements.
+
+**Tech:** React, TypeScript, Tailwind CSS, Three.js
+
+## Tech Stack
+
+**Languages:** Python, Java, JavaScript, TypeScript, C++, C#, HTML/CSS  
+**Frameworks & Tools:** React, Next.js, Node.js, Express, Angular, Three.js, Prisma, Playwright  
+**Databases & Cloud:** PostgreSQL, SQL, AWS, Google Cloud Platform, Vercel  
+**Other:** Git, APIs, automation workflows, testing, technical documentation
+
+## Connect With Me
+
+- Portfolio: [brandonnguyen.io](https://brandonnguyen.io)
+- LinkedIn: [linkedin.com/in/t-brandon-nguyen](https://www.linkedin.com/in/t-brandon-nguyen/)

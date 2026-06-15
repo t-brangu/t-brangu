@@ -9,12 +9,6 @@ I'm a Computer Science student at the University of Hawaiʻi at Mānoa, also pur
 - 🌐 Experience developing responsive web applications using React, Next.js, TypeScript, and PostgreSQL
 - 🎮 Also interested in game development, esports, and interactive web experiences
 
-## Currently Working On
-
-- Building user-facing research tools for document/table extraction workflows
-- Developing full-stack web applications with Three.js
-- Improving my software engineering fundamentals through projects, testing, and code review
-
 ## Featured Projects
 
 ### Manoa Lost & Found

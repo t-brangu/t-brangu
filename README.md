@@ -1,32 +1,12 @@
-# Hi, I'm Brandon Nguyen 🌻
+# Hi, I'm Brandon! 🌻
 
-I'm a Computer Science student at the University of Hawaiʻi at Mānoa, also pursuing an English minor. I'm interested in software engineering, AI-assisted tools, full-stack development, and data-focused applications.
+Love video games, creating art, and spending my time taking care of fish.
 
 ## About Me
 
 * 🎓 B.S. Computer Science with English Minor at University of Hawaiʻi at Mānoa
 * 🔬 Research experience building Python pipelines for extracting and evaluating structured data from scanned PDFs
 * 🎮 Also interested in game development, esports, and interactive web experiences
-
-## Featured Projects
-
-### Manoa Lost & Found
-
-A full-stack web application designed to improve the lost and found process at UH Mānoa.
-
-**Tech:** Next.js, React, TypeScript, PostgreSQL, Prisma, NextAuth, Vercel, Playwright
-
-### Research Table Extraction Pipeline (in-development)
-
-A Python-based pipeline for extracting tables from scanned research PDFs and converting them into structured datasets.
-
-**Tech:** Python, PyMuPDF, Camelot, CSV/JSON, logging, evaluation scripts
-
-### Saigon's Restaurant Website (in-development)
-
-A modern restaurant website with customer-facing pages and interactive visual elements.
-
-**Tech:** React, TypeScript, Tailwind CSS, Three.js
 
 ## Tech Stack
 

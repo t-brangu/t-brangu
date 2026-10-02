@@ -1,6 +1,6 @@
 # Hi, I'm Brandon! 🌻
 
-Love video games, creating art, and spending my time taking care of fish.
+Love playing video games, creating art, and spending my time taking care of fish.
 
 ## About Me
 
